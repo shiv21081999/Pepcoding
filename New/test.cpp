@@ -20,9 +20,5 @@ using namespace std;
 const int N = 100005, M = 11;
 int mod = 1000000007;
 int32_t main(){
-    int n;
-    cin>>n;
-    int *arr = new int[n];
-    for(int i = 0; i < n; i++)
-    return 0;
+    cout<<"hello world"<<endl;
 }
