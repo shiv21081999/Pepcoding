@@ -1,6 +1,10 @@
-aabb
-abab
-abba
-baab
-baba
-bbaa
+abc
+abd
+abe
+acd
+ace
+ade
+bcd
+bce
+bde
+cde
